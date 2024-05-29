@@ -1,5 +1,5 @@
 Package: regexcite
-Title: one of the very interesting package to work with strings.
+Title: one of the very interesting package to work with strings
 Version: 0.0.0.9000
 Authors@R: 
     person("Wajid", "Iqbal", , "wwajidiqbal@gmail.com", role = c("aut", "cre"),
