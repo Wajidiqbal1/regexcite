@@ -1,12 +1,12 @@
 Package: regexcite
-Title: What the Package Does (One Line, Title Case)
+Title: one of the very interesting package to work with strings.
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
+    person("Wajid", "Iqbal", , "wwajidiqbal@gmail.com", role = c("aut", "cre"),
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+Description: string manipulation package that goes above and beyond the normal
+    way of working with strings that others packages cannot do in an efficient way.
+License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.1
